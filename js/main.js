@@ -13,8 +13,8 @@ document.body.onload = function(){
       document.querySelector(".wishFrom").innerText = `From ${names[1]}`;
       localStorage.newYearYou = names[0];
     }else{
-      document.querySelector(".friendName").innerText = `Hello Friend`;
-      document.querySelector(".wishFrom").innerText = `From Ananta`;
+      document.querySelector(".friendName").innerText = `Hello kyshmish`;
+      document.querySelector(".wishFrom").innerText = `From taimoor`;
     }
 }
 
